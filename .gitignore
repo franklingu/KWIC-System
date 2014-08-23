@@ -1,6 +1,3 @@
-# ignore the idea project setting
-.idea
-
 *.class
 
 # Mobile Tools for Java (J2ME)
