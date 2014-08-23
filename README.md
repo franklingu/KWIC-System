@@ -5,8 +5,10 @@ CS3213 Homework 1
 
 ### Requirements
 
-Assignment 1: KWIC-KWAC-KWOC
+# Assignment 1: KWIC-KWAC-KWOC
+
 For this assignment :
+
 You will implement a KWIC (Key Word In Context) index system. You can refer to the readings 
 available in the IVLE workbin/Readings folder. 
 
@@ -21,7 +23,9 @@ implementation.
 Also, refer to the requirements and submission instructions given below.
 
 
-* __Functional__: (Grading will be based on how close the implementation is to the specified design)
+* __Functional__:
+
+(Grading will be based on how close the implementation is to the specified design)
 KWIC (Key Word In Context) index system provides a search mechanism for information in a 
 long list of lines, such as movie titles. Given a list of titles and a list of ``words to ignore'', you 
 are to write a program that generates a KWIC (Key Word In Context) index of the titles. In a 
@@ -44,7 +48,9 @@ Steel Man of
 Tomorrow the Day After
 ```
 
-* __Non-functional__: The index system you implement should be:
+* __Non-functional__:
+
+The index system you implement should be:
 1. User friendly - the system user interface should be easy for users to use the system
 2. Response time - the system should respond to user's query in a reasonable time e.g. 
    comparable to the common search engine such as Yahoo.
