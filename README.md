@@ -51,9 +51,10 @@ Tomorrow the Day After
 * __Non-functional__:
 
 The index system you implement should be:
+
 1. User friendly - the system user interface should be easy for users to use the system
 2. Response time - the system should respond to user's query in a reasonable time e.g. 
    comparable to the common search engine such as Yahoo.
 3. Extendable - new functions can be added to the system easily without any major 
    changes to the design of the system. 
-  (You may add more non functional requirements. Mention them in your design document.)
+   (You may add more non functional requirements. Mention them in your design document.)
