@@ -3,9 +3,9 @@ CS3213-HW-A1
 
 CS3213 Homework 1
 
-### Requirements
+## Requirements
 
-# Assignment 1: KWIC-KWAC-KWOC
+#### Assignment 1: KWIC-KWAC-KWOC
 
 For this assignment :
 
