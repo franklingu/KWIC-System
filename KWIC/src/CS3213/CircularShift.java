@@ -32,11 +32,17 @@ public class CircularShift {
             shifts[i] = this.getShiftedLine(i, words);
         }
 
-        return getShiftsWithoutIgnoredWordLeading(shifts);
+        String[] filteredShifts = getShiftsWithoutIgnoredWordLeading(shifts);
+        for (int i=0;i<filteredShifts.length;i++) {
+            filteredShifts[i] = capitalizeWordsNotIgnoredInShift(filteredShifts[i]);
+        }
+
+        return filteredShifts;
     }
 
     private String getShiftedLine(int index, String[] words) {
         StringBuilder builder = new StringBuilder();
+
         for (int i=index;i<words.length;i++) {
             builder.append(words[i]);
             builder.append(DELIMITER);
@@ -48,6 +54,7 @@ public class CircularShift {
         if (builder.length() > 0) {
             builder.deleteCharAt(builder.length() - 1);
         }
+
         return builder.toString();
     }
 
@@ -66,5 +73,24 @@ public class CircularShift {
 
     private boolean isShiftStartingWithIgnoredWord(String line) {
         return this._wordsToIgnore.isWordIgnored(line.split(DELIMITER)[0]);
+    }
+
+    private String capitalizeWordsNotIgnoredInShift(String shift) {
+        String[] words = shift.split(DELIMITER);
+        StringBuilder builder = new StringBuilder();
+
+        for (String str : words) {
+            if (this._wordsToIgnore.isWordIgnored(str)) {
+                builder.append(str);
+            } else {
+                builder.append(Character.toUpperCase(str.charAt(0))).append(str.substring(1));
+            }
+            builder.append(DELIMITER);
+        }
+        if (builder.length() > 0) {
+            builder.deleteCharAt(builder.length() - 1);
+        }
+
+        return builder.toString();
     }
 }

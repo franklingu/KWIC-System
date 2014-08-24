@@ -19,9 +19,9 @@ public class CircularShiftTest {
             setOfShits.add(str);
         }
         assertTrue(setOfShits.size() == 4);
-        assertTrue(setOfShits.contains("test this circular shift"));
-        assertTrue(setOfShits.contains("this circular shift test"));
-        assertTrue(setOfShits.contains("circular shift test this"));
-        assertTrue(setOfShits.contains("shift test this circular"));
+        assertTrue(setOfShits.contains("Test This Circular Shift"));
+        assertTrue(setOfShits.contains("This Circular Shift Test"));
+        assertTrue(setOfShits.contains("Circular Shift Test This"));
+        assertTrue(setOfShits.contains("Shift Test This Circular"));
     }
 }
