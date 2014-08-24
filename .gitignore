@@ -1,3 +1,7 @@
+# ignore unnecessary idea project settings
+workspace.xml
+tasks.xml
+
 *.class
 
 # Mobile Tools for Java (J2ME)
