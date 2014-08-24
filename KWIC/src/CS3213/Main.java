@@ -17,7 +17,7 @@ public class Main {
             movieTitles.addTitle(userInput);
             userInput = sc.nextLine();
         }
-        movieTitles.printTitles();
+
 
         System.out.println("Enter words to ignore (terminate input by entering 0) ");
         String inputWordToIgnore = sc.nextLine();
@@ -27,6 +27,17 @@ public class Main {
             inputWordToIgnore = sc.nextLine();
         }
 
+        CircularShift[] shifters = new CircularShift[movieTitles.getNumberOfTitles()];
+        Alphabetizer alphabetizer = new Alphabetizer();
+        for(int i=0; i<shifters.length;i++){
+            shifters[i] = new CircularShift(movieTitles.getTitleAtIndex(i));
+            alphabetizer.addLines(shifters[i].getCircularShifts());
+        }
+
+        String[] result = alphabetizer.getSortedLines();
+        for(int i=0;i<result.length;i++){
+            System.out.println(result[i]);
+        }
         System.exit(0);
     }
 }

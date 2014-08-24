@@ -23,9 +23,14 @@ public class InputParser {
        return this._titles.toArray(new String[this._titles.size()]);
     }
 
-    public void printTitles(){
-        for(int i=0; i<_titles.size();i++){
-            System.out.println(_titles.get(i));
+   public int getNumberOfTitles(){
+       return this._titles.size();
+   }
+
+    public String getTitleAtIndex(int index){
+        if(index >=0 && index < this._titles.size()){
+            return this._titles.get(index);
         }
+        return null;
     }
 }
