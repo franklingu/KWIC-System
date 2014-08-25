@@ -19,7 +19,7 @@ public class CircularShift {
      */
     public CircularShift(String line) {
         assert(line != null);
-        this._line = line;
+        this._line = line.toLowerCase();
         this._wordsToIgnore = WordsToIgnore.getWordsToIgnore();
     }
 

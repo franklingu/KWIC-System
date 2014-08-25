@@ -12,7 +12,7 @@ public class CircularShiftTest {
 
     @Test
     public void testGetCircularShifts() throws Exception {
-        CircularShift circularShit = new CircularShift("test this circular shift");
+        CircularShift circularShit = new CircularShift("tEst this Circular shIft");
         String[] shifts = circularShit.getCircularShifts();
         HashSet<String> setOfShits = new HashSet<String>();
         for (String str : shifts) {
