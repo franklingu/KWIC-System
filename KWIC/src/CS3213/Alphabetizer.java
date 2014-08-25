@@ -9,9 +9,18 @@ import java.util.List;
  */
 public class Alphabetizer {
     private List<String> _lines;
+    private static Alphabetizer _instance;
 
-    public Alphabetizer() {
+    private Alphabetizer() {
         this._lines = new ArrayList<String>();
+    }
+
+    public static Alphabetizer getAlphabetizer() {
+        if (_instance == null) {
+            _instance = new Alphabetizer();
+        }
+
+        return _instance;
     }
 
     public void addLines(String[] lines) {
@@ -23,5 +32,9 @@ public class Alphabetizer {
     public String[] getSortedLines() {
         Collections.sort(this._lines);
         return this._lines.toArray(new String[this._lines.size()]);
+    }
+
+    public void clearContent() {
+        this._lines.clear();
     }
 }

@@ -9,7 +9,7 @@ public class AlphabetizerTest {
 
     @Test
     public void testGetSortedLines() throws Exception {
-        Alphabetizer alphabetizer = new Alphabetizer();
+        Alphabetizer alphabetizer = Alphabetizer.getAlphabetizer();
 
         String[] lines = {"test a line", "a simple line", "this is test", "easy task"};
         alphabetizer.addLines(lines);
