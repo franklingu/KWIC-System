@@ -1,0 +1,2 @@
+Enter movie titles (terminate input by entering empty line) 
+Enter words to ignore (terminate input by entering empty line) 

@@ -1,0 +1,584 @@
+Enter movie titles (terminate input by entering empty line) 
+Enter words to ignore (terminate input by entering empty line) 
+
+- A New Hope Star Wars: Episode Iv
+- the Empire Strikes Back Star Wars: Episode V
+- the Return of the Jedi Star Wars: Episode Vi
+1 Kill Bill: Vol.
+12 Angry Men
+12 Years A Slave
+17 Stalag
+2 Harry Potter and the Deathly Hallows: Part
+2 How to Train Your Dragon
+2 the Raid
+2001: A Space Odyssey
+2: Judgment Day Terminator
+3 Idiots
+3 Toy Story
+400 Blows the
+8½
+A Beautiful Mind
+A Christmas Story
+A Clockwork Orange
+A Dog's Tale Hachi:
+A Dream Requiem For
+A Few Dollars More For
+A Fistful of Dollars
+A Mockingbird to Kill
+A New Hope Star Wars: Episode Iv -
+A Separation
+A Slave 12 Years
+A Space Odyssey 2001:
+A Time In America Once Upon
+A Time In India Lagaan: Once Upon
+A Time In the West Once Upon
+A Train Strangers On
+A Wonderful Life It's
+About Eve All
+Affairs Infernal
+Afraid of Virginia Woolf? Who's
+Afternoon Dog Day
+Alexander Fanny and
+Algiers the Battle of
+Alien
+Aliens
+All About Eve
+Amadeus
+America Once Upon A Time In
+American Beauty
+American History X
+Amores Perros
+Amélie
+Angry Men 12
+Annie Hall
+Apartment the
+Apocalypse Now
+Arabia Lawrence of
+Ark Raiders of the Lost
+At Nuremberg Judgment
+Avengers the
+Away Spirited
+Baby Million Dollar
+Back Star Wars: Episode V - the Empire Strikes
+Back to the Future
+Bad and the Ugly the Good, the
+Barrels Lock, Stock and Two Smoking
+Barry Lyndon
+Basterds Inglourious
+Batman Begins
+Battle of Algiers the
+Be Blood There Will
+Beast Beauty and the
+Beautiful Life is
+Beautiful Mind A
+Beauty American
+Beauty and the Beast
+Before Sunrise
+Before Sunset
+Begins Batman
+Bell and the Butterfly the Diving
+Ben-hur
+Best Years of Our Lives the
+Bicycle Thieves
+Big Lebowski the
+Big Sleep the
+Bill: Vol. 1 Kill
+Black Pearl Pirates of the Caribbean: the Curse of the
+Blade Runner
+Blood Diamond
+Blood There Will Be
+Blows the 400
+Blvd. Sunset
+Bomb Dr. Strangelove Or: How I Learned to Stop Worrying and Love the
+Boot Das
+Bourne Ultimatum the
+Braveheart
+Brian Life of
+Bride the Princess
+Bridge On the River Kwai the
+Budapest Hotel the Grand
+Bull Raging
+Butch Cassidy and the Sundance Kid
+Butterfly the Diving Bell and the
+By Me Stand
+By Northwest North
+Caribbean: the Curse of the Black Pearl Pirates of the
+Casablanca
+Casino
+Cassidy and the Sundance Kid Butch
+Castle Howl's Moving
+Castle In the Sky
+Celebration the
+Chinatown
+Christmas Story A
+Cinema Paradiso
+Citizen Kane
+City Lights
+City Sin
+City of God
+Clockwork Orange A
+Club Fight
+Colour It Yellow
+Confidential L.a.
+Cool Hand Luke
+Country For Old Men No
+Crusade Indiana Jones and the Last
+Cuckoo's Nest One Flew Over the
+Curse of the Black Pearl Pirates of the Caribbean: the
+Dark Knight Rises the
+Dark Knight the
+Darko Donnie
+Das Boot
+Day Afternoon Dog
+Day Groundhog
+Day Terminator 2: Judgment
+Days of Future Past X-men:
+Deathly Hallows: Part 2 Harry Potter and the
+Deer Hunter the
+Departed the
+Diabolique
+Dial M For Murder
+Diamond Blood
+Dictator the Great
+Die Hard
+Diving Bell and the Butterfly the
+Django Unchained
+Dog Day Afternoon
+Dog's Tale Hachi: A
+Dogs Reservoir
+Dollar Baby Million
+Dollars A Fistful of
+Dollars More For A Few
+Donnie Darko
+Double Indemnity
+Downfall
+Dr. Strangelove Or: How I Learned to Stop Worrying and Love the Bomb
+Dragon 2 How to Train Your
+Dragon How to Train Your
+Dream Requiem For A
+Driver Taxi
+Earth Like Stars On
+Elephant Man the
+Elite Squad: the Enemy Within
+Empire Strikes Back Star Wars: Episode V - the
+Enemy Within Elite Squad: the
+Episode Iv - A New Hope Star Wars:
+Episode V - the Empire Strikes Back Star Wars:
+Episode Vi - the Return of the Jedi Star Wars:
+Escape the Great
+Eternal Sunshine of the Spotless Mind
+Eve All About
+Evil Touch of
+Eyes the Secret In Their
+Falcon the Maltese
+Fanny and Alexander
+Fargo
+Father In the Name of the
+Fear the Wages of
+Fellowship of the Ring the Lord of the Rings: the
+Few Dollars More For A
+Fiction Pulp
+Fight Club
+Finding Nemo
+Fireflies Grave of the
+Fistful of Dollars A
+Flew Over the Cuckoo's Nest One
+For A Dream Requiem
+For A Few Dollars More
+For Love In the Mood
+For Murder Dial M
+For Old Men No Country
+For Vendetta V
+For the Prosecution Witness
+Forrest Gump
+Full Metal Jacket
+Future Back to the
+Future Past X-men: Days of
+Galaxy Guardians of the
+Gandhi
+General the
+Gladiator
+Glory Paths of
+God City of
+Godfather the
+Godfather: Part Ii the
+Goes to Washington Mr. Smith
+Gold Rush the
+Gone With the Wind
+Good Will Hunting
+Good, the Bad and the Ugly the
+Goodfellas
+Graduate the
+Grail Monty Python and the Holy
+Gran Torino
+Grand Budapest Hotel the
+Grapes of Wrath the
+Grave of the Fireflies
+Great Dictator the
+Great Escape the
+Green Mile the
+Groundhog Day
+Guardians of the Galaxy
+Gump Forrest
+Hachi: A Dog's Tale
+Haine La
+Hall Annie
+Hallows: Part 2 Harry Potter and the Deathly
+Hand Luke Cool
+Happened One Night It
+Hard Die
+Harry Potter and the Deathly Hallows: Part 2
+Heat
+Help the
+Her
+High Noon
+History X American
+Holiday Roman
+Holy Grail Monty Python and the
+Hope Star Wars: Episode Iv - A New
+Hot Some Like It
+Hotel Rwanda
+Hotel the Grand Budapest
+How I Learned to Stop Worrying and Love the Bomb Dr. Strangelove Or:
+How to Train Your Dragon
+How to Train Your Dragon 2
+Howl's Moving Castle
+Hunt the
+Hunter the Deer
+Hunter the Night of the
+Hunting Good Will
+Hustler the
+I Learned to Stop Worrying and Love the Bomb Dr. Strangelove Or: How
+Idiots 3
+Ii the Godfather: Part
+Ikiru
+In America Once Upon A Time
+In India Lagaan: Once Upon A Time
+In Their Eyes the Secret
+In the Mood For Love
+In the Name of the Father
+In the Rain Singin'
+In the Sky Castle
+In the West Once Upon A Time
+Inc. Monsters,
+Incendies
+Inception
+Indemnity Double
+India Lagaan: Once Upon A Time In
+Indiana Jones and the Last Crusade
+Infernal Affairs
+Inglourious Basterds
+Into the Wild
+Intouchables the
+Ip Man
+Island Shutter
+It Happened One Night
+It Hot Some Like
+It Yellow Colour
+It's A Wonderful Life
+Iv - A New Hope Star Wars: Episode
+Jacket Full Metal
+Jaws
+Jedi Star Wars: Episode Vi - the Return of the
+Jones and the Last Crusade Indiana
+Judgment At Nuremberg
+Judgment Day Terminator 2:
+Jurassic Park
+Kane Citizen
+Kid Butch Cassidy and the Sundance
+Kid the
+Kill A Mockingbird to
+Kill Bill: Vol. 1
+Killing the
+King the Lion
+King the Lord of the Rings: the Return of the
+King's Speech the
+Knight Rises the Dark
+Knight the Dark
+Kwai the Bridge On the River
+L.a. Confidential
+La Haine
+Labyrinth Pan's
+Lagaan: Once Upon A Time In India
+Lambs the Silence of the
+Last Crusade Indiana Jones and the
+Lawrence of Arabia
+Learned to Stop Worrying and Love the Bomb Dr. Strangelove Or: How I
+Lebowski the Big
+Life It's A Wonderful
+Life is Beautiful
+Life of Brian
+Lights City
+Like It Hot Some
+Like Stars On Earth
+Lion King the
+List Schindler's
+Lives of Others the
+Lives the Best Years of Our
+Lock, Stock and Two Smoking Barrels
+Lord of the Rings: the Fellowship of the Ring the
+Lord of the Rings: the Return of the King the
+Lord of the Rings: the Two Towers the
+Lost Ark Raiders of the
+Love In the Mood For
+Love the Bomb Dr. Strangelove Or: How I Learned to Stop Worrying and
+Luke Cool Hand
+Lyndon Barry
+Léon: the Professional
+M
+M For Murder Dial
+Madre the Treasure of the Sierra
+Maltese Falcon the
+Man Ip
+Man the Elephant
+Man the Third
+Mary and Max
+Matrix the
+Max Mary and
+Me Stand By
+Memento
+Memories of Murder
+Men 12 Angry
+Men No Country For Old
+Metal Jacket Full
+Metropolis
+Mile the Green
+Million Dollar Baby
+Millionaire Slumdog
+Mind A Beautiful
+Mind Eternal Sunshine of the Spotless
+Mockingbird to Kill A
+Modern Times
+Monkeys Twelve
+Mononoke Princess
+Monsters, Inc.
+Monty Python and the Holy Grail
+Mood For Love In the
+More For A Few Dollars
+Moving Castle Howl's
+Mr. Smith Goes to Washington
+Murder Dial M For
+Murder Memories of
+My Neighbor Totoro
+Name of the Father In the
+Nausicaä of the Valley of the Wind
+Neighbor Totoro My
+Nemo Finding
+Nest One Flew Over the Cuckoo's
+Network
+New Hope Star Wars: Episode Iv - A
+Night It Happened One
+Night of the Hunter the
+No Country For Old Men
+Noon High
+North By Northwest
+Northwest North By
+Notorious
+Now Apocalypse
+Nuremberg Judgment At
+Odyssey 2001: A Space
+Old Men No Country For
+Oldboy
+On A Train Strangers
+On Earth Like Stars
+On the River Kwai the Bridge
+On the Waterfront
+Once Upon A Time In America
+Once Upon A Time In India Lagaan:
+Once Upon A Time In the West
+One Flew Over the Cuckoo's Nest
+One Night It Happened
+Or: How I Learned to Stop Worrying and Love the Bomb Dr. Strangelove
+Orange A Clockwork
+Others the Lives of
+Our Lives the Best Years of
+Over the Cuckoo's Nest One Flew
+Oz the Wizard of
+Pan's Labyrinth
+Papillon
+Paradiso Cinema
+Park Jurassic
+Part 2 Harry Potter and the Deathly Hallows:
+Part Ii the Godfather:
+Past X-men: Days of Future
+Paths of Glory
+Pearl Pirates of the Caribbean: the Curse of the Black
+Perros Amores
+Persona
+Pianist the
+Pirates of the Caribbean: the Curse of the Black Pearl
+Platoon
+Potter and the Deathly Hallows: Part 2 Harry
+Prestige the
+Princess Bride the
+Princess Mononoke
+Private Ryan Saving
+Professional Léon: the
+Prosecution Witness For the
+Psycho
+Pulp Fiction
+Python and the Holy Grail Monty
+Raging Bull
+Raid 2 the
+Raiders of the Lost Ark
+Rain Singin' In the
+Ran
+Rashomon
+Rear Window
+Rebecca
+Requiem For A Dream
+Reservoir Dogs
+Return of the Jedi Star Wars: Episode Vi - the
+Return of the King the Lord of the Rings: the
+Ring the Lord of the Rings: the Fellowship of the
+Rings: the Fellowship of the Ring the Lord of the
+Rings: the Return of the King the Lord of the
+Rings: the Two Towers the Lord of the
+Rises the Dark Knight
+River Kwai the Bridge On the
+Road the
+Rocky
+Roman Holiday
+Rope
+Runner Blade
+Rush
+Rush the Gold
+Rwanda Hotel
+Ryan Saving Private
+Samurai Seven
+Saving Private Ryan
+Scarface
+Schindler's List
+Se7en
+Seal the Seventh
+Secret In Their Eyes the
+Sense the Sixth
+Separation A
+Seven Samurai
+Seventh Seal the
+Shining the
+Show the Truman
+Shutter Island
+Sierra Madre the Treasure of the
+Silence of the Lambs the
+Sin City
+Singin' In the Rain
+Sixth Sense the
+Sky Castle In the
+Slave 12 Years A
+Sleep the Big
+Slumdog Millionaire
+Smith Goes to Washington Mr.
+Smoking Barrels Lock, Stock and Two
+Snatch.
+Some Like It Hot
+Space Odyssey 2001: A
+Speech the King's
+Spirited Away
+Spotless Mind Eternal Sunshine of the
+Squad: the Enemy Within Elite
+Stalag 17
+Stalker
+Stand By Me
+Star Wars: Episode Iv - A New Hope
+Star Wars: Episode V - the Empire Strikes Back
+Star Wars: Episode Vi - the Return of the Jedi
+Stars On Earth Like
+Sting the
+Stock and Two Smoking Barrels Lock,
+Stop Worrying and Love the Bomb Dr. Strangelove Or: How I Learned to
+Story 3 Toy
+Story A Christmas
+Story Toy
+Strangelove Or: How I Learned to Stop Worrying and Love the Bomb Dr.
+Strangers On A Train
+Strawberries Wild
+Street the Wolf of Wall
+Strikes Back Star Wars: Episode V - the Empire
+Sundance Kid Butch Cassidy and the
+Sunrise Before
+Sunset Before
+Sunset Blvd.
+Sunshine of the Spotless Mind Eternal
+Suspects the Usual
+Swades
+Tale Hachi: A Dog's
+Taxi Driver
+Terminator 2: Judgment Day
+Terminator the
+Their Eyes the Secret In
+There Will Be Blood
+Thieves Bicycle
+Thing the
+Third Man the
+Time In America Once Upon A
+Time In India Lagaan: Once Upon A
+Time In the West Once Upon A
+Times Modern
+Torino Gran
+Totoro My Neighbor
+Touch of Evil
+Towers the Lord of the Rings: the Two
+Toy Story
+Toy Story 3
+Train Strangers On A
+Train Your Dragon 2 How to
+Train Your Dragon How to
+Trainspotting
+Treasure of the Sierra Madre the
+Truman Show the
+Twelve Monkeys
+Two Smoking Barrels Lock, Stock and
+Two Towers the Lord of the Rings: the
+Ugly the Good, the Bad and the
+Ultimatum the Bourne
+Unchained Django
+Unforgiven
+Up
+Upon A Time In America Once
+Upon A Time In India Lagaan: Once
+Upon A Time In the West Once
+Usual Suspects the
+V - the Empire Strikes Back Star Wars: Episode
+V For Vendetta
+Valley of the Wind Nausicaä of the
+Vendetta V For
+Vertigo
+Vi - the Return of the Jedi Star Wars: Episode
+Virginia Woolf? Who's Afraid of
+Vol. 1 Kill Bill:
+Wages of Fear the
+Wall Street the Wolf of
+Wall·e
+Warrior
+Wars: Episode Iv - A New Hope Star
+Wars: Episode V - the Empire Strikes Back Star
+Wars: Episode Vi - the Return of the Jedi Star
+Washington Mr. Smith Goes to
+Waterfront On the
+West Once Upon A Time In the
+Who's Afraid of Virginia Woolf?
+Wild Into the
+Wild Strawberries
+Will Be Blood There
+Will Hunting Good
+Wind Gone With the
+Wind Nausicaä of the Valley of the
+Window Rear
+With the Wind Gone
+Within Elite Squad: the Enemy
+Witness For the Prosecution
+Wizard of Oz the
+Wolf of Wall Street the
+Wonderful Life It's A
+Woolf? Who's Afraid of Virginia
+Worrying and Love the Bomb Dr. Strangelove Or: How I Learned to Stop
+Wrath the Grapes of
+X American History
+X-men: Days of Future Past
+Years A Slave 12
+Years of Our Lives the Best
+Yellow Colour It
+Yojimbo
+Your Dragon 2 How to Train
+Your Dragon How to Train

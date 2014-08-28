@@ -1,0 +1,14 @@
+Enter movie titles (terminate input by entering empty line) 
+Enter words to ignore (terminate input by entering empty line) 
+
+Fast and Furious
+Frozen
+Furious Fast and
+Gone with the Wind
+Iron Man
+Man Iron
+Man Rain
+Rain Man
+Scent of Woman
+Wind Gone with the
+Woman Scent of

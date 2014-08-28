@@ -82,6 +82,8 @@ public class CircularShift {
         for (String str : words) {
             if (this._wordsToIgnore.isWordIgnored(str)) {
                 builder.append(str);
+            } else if (str.trim().isEmpty()) {
+                continue;
             } else {
                 builder.append(Character.toUpperCase(str.charAt(0))).append(str.substring(1));
             }
