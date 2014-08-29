@@ -1,6 +1,5 @@
 Enter movie titles (terminate input by entering empty line) 
 Enter words to ignore (terminate input by entering empty line) 
-
 ! Goal
 & 10 (3 Discs) Hale and Pace Series 9
 & 2 (2 Discs) Early Doors Series 1
@@ -2449,6 +2448,7 @@ Enter words to ignore (terminate input by entering empty line)
 1 Bo Selecta - Series
 1 Bottom Series
 1 Dads Army Series
+1 Day
 1 Deadly 60 – Deadly Top 10 Series
 1 Dinnerladies - Series
 1 England 5 Germany
@@ -7756,6 +7756,7 @@ Dawsons Creek Series 2 (6 Discs)
 Dawsons Creek Series 3 (6 Discs)
 Day (2011) Mothers
 Day (david Essex) That'll Be the
+Day 1
 Day 60s, 70s & 80s (3 Discs) Match of the
 Day After Tomorrow the
 Day Afternoon Dog
@@ -23847,3 +23848,4 @@ the Trouble With Harry Hitchcock
 –the Homecoming Silent Night Bloody Night
 –the Original Series (7 Discs) Mrs Browns Boys
 –the Show 2002 Riverdance
+Total execution time: 338

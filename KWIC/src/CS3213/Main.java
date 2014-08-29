@@ -9,6 +9,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args){
+        long startTime = System.currentTimeMillis();
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter movie titles (terminate input by entering empty line) ");
@@ -34,6 +35,8 @@ public class Main {
                         CircularShift.circularShift(
                                 builder.toString().toLowerCase()))));
 
+        long endTime = System.currentTimeMillis();
+        System.out.println("Total execution time: " + (endTime - startTime) );
         System.exit(0);
     }
 }
