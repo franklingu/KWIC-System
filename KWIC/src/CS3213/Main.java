@@ -36,9 +36,12 @@ public class Main {
         }
 
         String[] result = alphabetizer.getSortedLines();
-        for (int i=0;i<result.length;i++) {
-            System.out.println(result[i]);
+        StringBuilder builder = new StringBuilder();
+        String separator = System.lineSeparator();
+        for (String str : result) {
+            builder.append(str).append(separator);
         }
+        System.out.print(builder.toString());
 
         long endTime = System.currentTimeMillis();
 
