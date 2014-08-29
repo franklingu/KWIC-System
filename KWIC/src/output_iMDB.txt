@@ -1,6 +1,5 @@
 Enter movie titles (terminate input by entering empty line) 
 Enter words to ignore (terminate input by entering empty line) 
-
 - A New Hope Star Wars: Episode Iv
 - the Empire Strikes Back Star Wars: Episode V
 - the Return of the Jedi Star Wars: Episode Vi
@@ -426,6 +425,7 @@ Ran
 Rashomon
 Rear Window
 Rebecca
+Redemption the Shawshank
 Requiem For A Dream
 Reservoir Dogs
 Return of the Jedi Star Wars: Episode Vi - the
@@ -456,6 +456,7 @@ Sense the Sixth
 Separation A
 Seven Samurai
 Seventh Seal the
+Shawshank Redemption the
 Shining the
 Show the Truman
 Shutter Island

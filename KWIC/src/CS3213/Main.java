@@ -16,8 +16,8 @@ public class Main {
         List<String> inputs = new ArrayList<String>();
         String userInput = sc.nextLine();
         while (!userInput.isEmpty()) {
-            userInput = sc.nextLine();
             inputs.add(userInput);
+            userInput = sc.nextLine();
         }
 
         System.out.println("Enter words to ignore (terminate input by entering empty line) ");
