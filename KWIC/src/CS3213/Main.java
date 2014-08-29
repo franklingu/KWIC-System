@@ -17,8 +17,8 @@ public class Main {
         String userInput = sc.nextLine();
         String separator = System.lineSeparator();
         while (!userInput.isEmpty()) {
-            userInput = sc.nextLine();
             builder.append(userInput).append(separator);
+            userInput = sc.nextLine();
         }
 
         System.out.println("Enter words to ignore (terminate input by entering empty line) ");
@@ -29,7 +29,10 @@ public class Main {
             inputWordToIgnore = sc.nextLine();
         }
 
-        System.out.print(Alphabetizer.alphabetize(CircularShift.circularShift(builder.toString())));
+        System.out.print(Alphabetizer.alphabetize(
+                IgnoreFilter.ignoreFilter(
+                        CircularShift.circularShift(
+                                builder.toString().toLowerCase()))));
 
         System.exit(0);
     }
