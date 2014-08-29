@@ -13,11 +13,12 @@ public class Main {
 
         System.out.println("Enter movie titles (terminate input by entering empty line) ");
 
-        List<String> inputs = new ArrayList<String>();
+        StringBuilder builder = new StringBuilder();
         String userInput = sc.nextLine();
+        String separator = System.lineSeparator();
         while (!userInput.isEmpty()) {
             userInput = sc.nextLine();
-            inputs.add(userInput);
+            builder.append(userInput).append(separator);
         }
 
         System.out.println("Enter words to ignore (terminate input by entering empty line) ");
@@ -28,16 +29,7 @@ public class Main {
             inputWordToIgnore = sc.nextLine();
         }
 
-        Alphabetizer alphabetizer = new Alphabetizer();
-        for (String str : inputs) {
-            CircularShift shifter = new CircularShift(str);
-            alphabetizer.addLines(shifter.getCircularShifts());
-        }
-
-        String[] result = alphabetizer.getSortedLines();
-        for (int i=0;i<result.length;i++) {
-            System.out.println(result[i]);
-        }
+        System.out.print(Alphabetizer.alphabetize(CircularShift.circularShift(builder.toString())));
 
         System.exit(0);
     }

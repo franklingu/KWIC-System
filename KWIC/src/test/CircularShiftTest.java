@@ -12,16 +12,5 @@ public class CircularShiftTest {
 
     @Test
     public void testGetCircularShifts() throws Exception {
-        CircularShift circularShit = new CircularShift("tEst this Circular shIft");
-        String[] shifts = circularShit.getCircularShifts();
-        HashSet<String> setOfShits = new HashSet<String>();
-        for (String str : shifts) {
-            setOfShits.add(str);
-        }
-        assertTrue(setOfShits.size() == 4);
-        assertTrue(setOfShits.contains("Test This Circular Shift"));
-        assertTrue(setOfShits.contains("This Circular Shift Test"));
-        assertTrue(setOfShits.contains("Circular Shift Test This"));
-        assertTrue(setOfShits.contains("Shift Test This Circular"));
     }
 }
